@@ -1,2 +1,2 @@
-# fractal_exp-web
+# fractals
 Fractal Explorer Web Implementation
